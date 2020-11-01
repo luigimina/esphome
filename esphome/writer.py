@@ -38,7 +38,7 @@ void loop() {
 INI_BASE_FORMAT = ("""; Auto generated code by esphome
 
 [platformio]
-core_dir = ./core_pio
+core_dir = ../core_pio
 
 [common]
 lib_deps =
